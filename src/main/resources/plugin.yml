@@ -1,0 +1,4 @@
+name: Basicstaffchat
+version: ${project.version}
+main: com.markie129.basicstaffchat.Main
+api-version: 1.18
